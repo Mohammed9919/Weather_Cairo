@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Weather_Cairo/static/css/main.0a6435ae.css",
-    "main.js": "/Weather_Cairo/static/js/main.477e712d.js",
+    "main.js": "/Weather_Cairo/static/js/main.25b150c6.js",
     "static/js/453.9407df9d.chunk.js": "/Weather_Cairo/static/js/453.9407df9d.chunk.js",
     "static/js/38.394404b9.chunk.js": "/Weather_Cairo/static/js/38.394404b9.chunk.js",
     "static/media/IBMPlexSansArabic-Medium.ttf": "/Weather_Cairo/static/media/IBMPlexSansArabic-Medium.1a40339d13ec504fe8b9.ttf",
@@ -9,12 +9,12 @@
     "static/media/IBMPlexSansArabic-Regular.ttf": "/Weather_Cairo/static/media/IBMPlexSansArabic-Regular.bd211734243840c34ad3.ttf",
     "index.html": "/Weather_Cairo/index.html",
     "main.0a6435ae.css.map": "/Weather_Cairo/static/css/main.0a6435ae.css.map",
-    "main.477e712d.js.map": "/Weather_Cairo/static/js/main.477e712d.js.map",
+    "main.25b150c6.js.map": "/Weather_Cairo/static/js/main.25b150c6.js.map",
     "453.9407df9d.chunk.js.map": "/Weather_Cairo/static/js/453.9407df9d.chunk.js.map",
     "38.394404b9.chunk.js.map": "/Weather_Cairo/static/js/38.394404b9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0a6435ae.css",
-    "static/js/main.477e712d.js"
+    "static/js/main.25b150c6.js"
   ]
 }
